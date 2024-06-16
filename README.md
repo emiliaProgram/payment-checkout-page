@@ -1,6 +1,8 @@
 # Next.js Checkout Application
 
 This is a Next.js application for a checkout page that integrates with Stripe for payment processing. The application includes a form for users to enter their email, credit card information, and billing address.
+![Screenshot from 2024-06-16 13-10-31](https://github.com/emiliaProgram/payment-checkout-page/assets/146941756/80d0e9e0-bbb0-49cb-bbd9-cfad55760b0f)
+
 
 ## Features
 
